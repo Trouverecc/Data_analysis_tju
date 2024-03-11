@@ -8,7 +8,7 @@ Last semester of my sophomore year, I took a course called Exploring the Beauty 
 Task 1: Design a questionnaire.
 
 
-Task 2: Make data kanban (using Titanic accident data).
+Task 2: Make dashboard (using Titanic accident data).
 
 
 Task 3: Draw a Knowledge Map (with VOSviewer).
