@@ -1,8 +1,8 @@
 # work-about-data-analysis(Tianjin University, China)
 
-#探寻数据之美个人作业（天津大学）
+# 探寻数据之美个人作业（天津大学）
 
-#2023-2024第一学期
+# 2023-2024第一学期
 
 @Trouverecc's work for the lesson "Explore the beauty of data" in 2023.
 
